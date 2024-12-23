@@ -1,0 +1,6 @@
+1212,T-Shirt,15,M,Blue,blueShirt.jpg
+1214,Long jeans,35,M,Black,blackPants.jpg
+1215,T-shirt,20,S,Brown,brownShirt.jpeg
+1216,T-shirt,17,L,Red,redShirt.jpeg
+1217,Jacket,80,M,Baige,Jacket.jpeg
+1218,Hoodie,100,S,White,BlueHoodie.jpeg

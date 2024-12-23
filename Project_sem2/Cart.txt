@@ -1,0 +1,9 @@
+
+1212,T-Shirt,15.0,M,Blue,11
+1215,T-shirt,20.0,S,Brown,2
+1217,Jacket,80.0,M,Baige,1
+1217,Jacket,80.0,M,Baige,4
+1218,Hoodie,100.0,S,White,3
+1216,T-shirt,17.0,L,Red,2
+1217,Jacket,80.0,M,Baige,2
+1216,T-shirt,17.0,L,Red,12
